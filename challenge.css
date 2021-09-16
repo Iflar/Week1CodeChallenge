@@ -25,9 +25,11 @@ p{
 }
 
 .statement-1{
+    left: 100%;
     background-color: lightgrey;
     position: relative;
-    display: inline-block;
+    display:inline-block;
+    vertical-align:middle;
     border-radius: 25px;
     border: 5px solid black;
     padding: 20px;
@@ -36,9 +38,11 @@ p{
 }
 
 .statement-2{
+    left: 100%;
     background-color: lightgrey;
     position: relative;
-    display: inline-block;
+    display:inline-block;
+    vertical-align:middle;
     border-radius: 25px;
     border: 5px solid black;
     padding: 20px;
@@ -47,9 +51,11 @@ p{
 }
 
 .statement-3{
+    left: 100%;
     background-color: lightgrey;
     position: relative;
-    display: inline-block;
+    display:inline-block;
+    vertical-align:middle;
     border-radius: 25px;
     border: 5px solid black;
     padding: 20px;
