@@ -25,7 +25,8 @@ p{
 }
 
 .statement-1{
-    left: 100%;
+    top: 100%;
+    left: 120%;
     background-color: lightgrey;
     position: relative;
     display:inline-block;
@@ -38,7 +39,8 @@ p{
 }
 
 .statement-2{
-    left: 100%;
+    top: 100%;
+    left: 120%;
     background-color: lightgrey;
     position: relative;
     display:inline-block;
@@ -51,7 +53,7 @@ p{
 }
 
 .statement-3{
-    left: 100%;
+    left: 120%;
     background-color: lightgrey;
     position: relative;
     display:inline-block;
